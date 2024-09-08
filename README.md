@@ -1,3 +1,17 @@
+# Updates
+
+This is the best tutorial. Simple but comprehensive, logical but easy!
+
+I have followed every step exactly the same, but there are few conflicts to mention.
+
+1. Mine is win11, latest version, P1000 old NVDA card. But installing the cudnn 8.1 and cuda 11.2 is OK. Protobuf used the same version as in the tutorial.
+
+2. Author installed tf2.5, but when installing model zoo using that script, it upgrades mine tf version to 2.11. But following everything works.
+
+3. I used the centernet hourlyglass model. everything is fine.
+
+
+
 # TensorFlowObjectDetectionTutorial
  
 
